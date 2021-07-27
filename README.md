@@ -9,3 +9,5 @@ Steps to use:
 A to-do-app used to store list of todos. Uses a few external library uuid. Made with the help of tutorials online. The difference between the previous To-do-App-legacy application and this one is that it is carried over to a webpack package and made with a compatible file structure.
 
 To run the file in your local repository, open the root folder in your terminal and use 'npm install' to install the node modules. Then use 'npm run dev-server' to host the dev server and use 'npm run build' to build the production files.
+
+The link to the website can be found in the repository description.
